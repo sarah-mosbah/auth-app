@@ -1,0 +1,6 @@
+[submodule "easy-generator-auth-fe"]
+	path = easy-generator-auth-fe
+	url = git@github.com:sarah-mosbah/easy-generator-auth-fe.git
+[submodule "easy-generator-auth-be"]
+	path = easy-generator-auth-be
+	url = git@github.com:sarah-mosbah/easy-generator-auth-be.git
